@@ -136,27 +136,21 @@
         float: right;
     }
     
-    /*footer {
+    footer {
         font-family: 'Courier New', Courier, monospace;
         font-size: 1.5rem;
-        position: absolute;
+        /*position: absolute;*/
         display: block;
         width: 40rem;
         text-align: center;
         margin: auto;
-        right: 0;
-        bottom: 1.5rem;
-        left: 0;
+        /*right: 0;*/
+        /*bottom: 1.5rem;*/
+        /*left: 0;*/
         text-transform: lowercase;
-    }
-    
-    footer a {
         font-family: 'Courier New', Courier, monospace;
-    }
-    
-    footer a:visited {
         color: #000;
-    }*/
-    
+    }
+
     
     
